@@ -1,4 +1,7 @@
-Machine Learning - Crypto Investments - Energy Markets
+Machine Learning 
+Crypto Investments
+Energy Markets
+
 ---
 
 ***
