@@ -1,2 +1,2 @@
-Machine Learning - Crpto Investments - Energy Markets
+layout: default
 ---
