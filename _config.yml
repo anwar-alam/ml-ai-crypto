@@ -1,8 +1,12 @@
 title: Anwar Alam
-description: Welcome to my page, A technology enthusiast - exploring sea of ML-AI-Crypto
+description: 
+<p align="center">
+<br>
+Welcome to my page
+A technology enthusiast - exploring sea of ML-AI-Crypto
+<br>
 
 
 show_downloads: false
-google_analytics:
 
 theme: jekyll-theme-dinky
