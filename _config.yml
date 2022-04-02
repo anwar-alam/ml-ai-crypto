@@ -1,5 +1,11 @@
-title: Dinky theme
-description: Dinky is a red hot theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Anwar Alam
+description:
+  <p align="center">
+  <br>
+  I am technology enthusiast
+  passionate about Machine Learning and Crypto-Investments
+  <br>
+  </p>
+  
+
 theme: jekyll-theme-dinky
